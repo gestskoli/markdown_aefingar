@@ -9,6 +9,11 @@ Venjulegur texti
 
 ***Bæði***
 
+```python
+for i in range(10):
+	print("Geir")
+```
+
 Heimasíða Tækniskólans er [hér](https://tskoli.is)
 
 Hér er mynd: ![](https://tse2.mm.bing.net/th/id/OIP.Zd_vG0VfthXrAu_e2UySqAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3) 
